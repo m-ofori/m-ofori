@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-ofori
-- 👀 I’m interested in security engineering
-- 🌱 I’m currently specializing in fraud examination
-- 💞️ I’m looking to collaborate on cybersecurity investigations
+- Hi, I’m @m-ofori
+- Security engineering & Forensics expert 
+-  Specialized in fraud examination
+- I’m looking to collaborate on cybersecurity investigations
  
 
 <!---
