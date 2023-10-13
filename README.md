@@ -1,5 +1,5 @@
 - Hi, I’m @m-ofori
-- Security engineering & Forensics expert 
+- Security engineer & Forensics expert 
 -  Specialized in fraud examination
 - I’m looking to collaborate on cybersecurity investigations
  
